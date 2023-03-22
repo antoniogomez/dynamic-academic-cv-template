@@ -1,13 +1,13 @@
 ---
 title: "Research publication summary"
-author: "Marie Skłodowska-Curie"
+author: "Antonio Gómez-Martín"
 date: "`r Sys.Date()`"
 output:
   word_document: default
   pdf_document: default
 abstract: |
   (Mostly) Automatically generated summary of the academic/publishing curriculum.
-myId: EmD_lTEAAAAJ
+myId: sqf_qlsAAAAJ&hl
 ---
 
 ```{r setup,echo=FALSE,message=FALSE}
